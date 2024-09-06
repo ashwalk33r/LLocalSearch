@@ -63,7 +63,7 @@ git@github.com:nilsherzig/LLocalSearch.git
 cd LLocalSearch
 ```
 
-2. Create and edit an `.env` file, if you need to change some of the default settings. This is typically only needed if you have Ollama running on a different device or if you want to build a more complex setup (for more than your personal use f.ex.). Please read [Ollama Setup Guide](./Ollama_Guide.md) if you struggle to get the Ollama connection running.
+2. Create and edit an `.env` file, if you need to change some of the default settings. This is typically only needed if you have Ollama running on a different device or if you want to build a more complex setup (for more than your personal use f.ex.). Please read [Ollama Setup Guide](./OLLAMA_GUIDE.md) if you struggle to get the Ollama connection running.
 
 ```bash
 touch .env
